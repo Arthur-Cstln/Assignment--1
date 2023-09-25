@@ -1,2 +1,2 @@
-Assignment 1 project
-For our project, we will create an informational website for the game minecraft and the different mods that we can add on it. The name of this project/website will be MC-Explorer
+## Assignment 1 project
+For our project, we will create an **informational website** for the game __minecraft__ and the different __mods__ that we can add on it. The name of this project/website will be __**MC-Explorer**__. We will maybe a **vote system** for the mods and a **search bar**.
